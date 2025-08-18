@@ -1,2 +1,2 @@
 # Virtual-Machine-Project
-Learning about how to set up my own virtual machines
+This Github is designed to showcase how I set up my virtual machine environment.
