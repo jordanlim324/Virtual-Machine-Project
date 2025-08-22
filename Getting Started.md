@@ -5,7 +5,7 @@ Welcome to the Getting Started page! Here, you'll find the software and tools yo
 - A Windows 11 machine with a minimum of the following:
 - CPU with at least 8 cores
 - 512 GB of either hard drive or solid state storage
-- 8 GB of RAM <br>
+- 8 GB of RAM
 - Virtual Box executable (.exe) file
 - Kali Linux VirtualBox File
 - Windows 11 ISO
