@@ -2,7 +2,7 @@
 This Github is designed to showcase how I set up my virtual machine environment. <br> <br>
 
 
-Initially Dated 22 August 2025
+Initially Dated: 22 August 2025
 
 Most recent update: 23 March 2026
 
