@@ -17,7 +17,7 @@ Welcome to the VirtualBox Tutorial! I'll help you by showing you how to install 
 4d. Click "Yes" <br><img width="495" height="392" alt="image" src="https://github.com/user-attachments/assets/83247e90-3dd1-4b07-824a-8d5a7bd7a84e" /><br>
 4e. Leave all boxes checked and click "Next >" <br><img width="495" height="392" alt="image" src="https://github.com/user-attachments/assets/e0bcb9b8-8459-41b9-8bbc-5a8958fe07cf" /><br>
 4f. Click "Install" and wait for installation to complete. <br>
-5. Congratulations, you've installed Virtual Box! <img width="495" height="392" alt="image" src="https://github.com/user-attachments/assets/1221a982-c8a8-44ca-b836-dc7231e91be1" />
+5. Congratulations, you've installed Virtual Box! <br><img width="495" height="392" alt="image" src="https://github.com/user-attachments/assets/1221a982-c8a8-44ca-b836-dc7231e91be1" /></br>
 
 # Run Guide
 1. Press the Windows Key on your keyboard or the Start Menu on your taskbar.
