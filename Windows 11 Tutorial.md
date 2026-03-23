@@ -22,10 +22,13 @@ https://github.com/jordanlim324/Virtual-Machine-Project/blob/main/VirtualBox%20T
 <img width="968" height="584" alt="image" src="https://github.com/user-attachments/assets/b1747a93-3c74-40e3-ab5a-64df246ee78f" />
 
 6. Congratulations, you've installed Windows 11 on VirtualBox!
+6a. If Windows asks for a product key, you may bypass it by clicking on "I do not have a product key."
+
+7. Create a base snapshot for your OS by going to your OS, click on the three lines next to your VM, and going to Snapshots. Take a snapshot of your installation once you get into the desktop environment so that you can rollback if needed.
 
 # Run Guide
 1. Double click on your windows 11 isntallation in VirtualBox.
 2. The VM will power on. It may take a while as it is going through the initial boot sequence.
 3. Once the VM finishes the boot sequence, it will prompt you with a username and password.
 By default, the credentials will be the login information created during step 4. <br>
-4. You have now logged into Kali Linux!
+4. You have now logged into Windows!
