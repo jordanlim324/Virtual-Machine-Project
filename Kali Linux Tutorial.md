@@ -10,10 +10,15 @@ Welcome to the Kali Linux Tutorial! I'll help you by showing you how to install 
 <img width="321" height="321" alt="image" src="https://github.com/user-attachments/assets/0bddba93-5048-48f9-b9f0-3278030a2cbb" />
 
 3. Navigate to your folder of choice and extract the .7z file. (You may have to use third party applications such as WinRar or 7-Zip to extract the file.)
+
 4. After extracting the file, go into the folder until you see a file called "kali-linux-2025.2-virtualbox-amd64.vbox".
 <img width="627" height="33" alt="image" src="https://github.com/user-attachments/assets/c32b8abd-08ee-49cc-b7aa-de6b47849db4" />
+
 5. Open the file and it will automatically add Kali Linux to Oracle VirtualBox. 
-6. Congratulations, you've installed Kali Linux! <img width="495" height="392" alt="image" src="https://github.com/user-attachments/assets/1221a982-c8a8-44ca-b836-dc7231e91be1" />
+
+6. Congratulations, you've installed Kali Linux! <br><img width="495" height="392" alt="image" src="https://github.com/user-attachments/assets/1221a982-c8a8-44ca-b836-dc7231e91be1" /></br>
+
+7. Create a base snapshot for your OS by going to your OS, click on the three lines next to your VM, and going to Snapshots. Take a snapshot of your installation once you get into the desktop environment so that you can rollback if needed.
 
 # Run Guide
 1. Double click on Kali Linux in VirtualBox.
