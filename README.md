@@ -2,7 +2,9 @@
 This Github is designed to showcase how I set up my virtual machine environment. <br> <br>
 
 
-Dated 22 August 2025
+Initially Dated 22 August 2025
+
+Most recent update: 23 March 2026
 
 # Preface
 I'm working on Windows 11 Pro 24H2, so all screenshots and steps regarding installations will be specifically for Windows machines. If all sounds good, carry on!
